@@ -1,0 +1,16 @@
+1. OS
+2. Theory of Computation
+3. Computer Networks
+4. Database Management
+5. Compiler Desing.
+6. Digital Logic. ~ HardCopy.
+7. Software Engineering.
+8. Algorithms and DS.
+9. Discrete Mathematics.
+10. 
+
+
+3.3.30 Intra slot.
+3.3.28 COmmon Pucch
+3.3.35 UCI Th
+3.3.29 Blin de 
